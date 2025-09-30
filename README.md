@@ -5,13 +5,6 @@
 Me chamo Victor Hugo Pelity Eloi, tenho 19 anos e sou fascinado por tecnologia. Atualmente estou cursando o primeiro semestre de ADS (Análise e Desenvolvimento de Sistemas) na FATEC Ipiranga e busco cada vez mais aprofundar o meu conhecimento em Inteligência Artificial e programação através dos projetos que farei aqui.
 
 <p align="left">
-    <a https://www.linkedin.com/in/victor-hugo-pelity-eloi-92b5721b8/>
-        <img 
-            alt="Seguidores do Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/profile/followers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Me seiga!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     </a> 
     <a href="https://github.com/VictorPelity?tab=repositories&sort=stargazers">
         <img 
