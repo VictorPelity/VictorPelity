@@ -9,7 +9,7 @@ Me chamo Victor Hugo Pelity Eloi, tenho 19 anos e sou fascinado por tecnologia. 
         <img 
             alt="Seguidores do Linkedin" 
             title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Me seiga!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/linkedin/profile/followers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Me seiga!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     </a> 
