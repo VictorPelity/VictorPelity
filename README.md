@@ -2,7 +2,7 @@
 
 **`👨🏽‍💻Desenvolvedor FullStack`**
 
-Me chamo Victor Hugo Pelity Eloi, tenho 19 anos e sou fascinado por tecnologia. Atualmente estou cursando o primeiro semestre de ADS (Análise e Desenvolvimento de Sistemas) na FATEC Ipiranga e busco cada vez mais aprofundar o meu conhecimento em Inteligência Artificial e programação através dos projetos que farei aqui.
+Me chamo Victor Hugo Pelity Eloi, tenho 19 anos e sou fascinado por tecnologia. Estou cursando ADS (Análise e Desenvolvimento de Sistemas) na FATEC Ipiranga e busco cada vez mais aprofundar o meu conhecimento em Inteligência Artificial e programação através dos projetos que farei aqui.
 
 <p align="left">
     </a> 
