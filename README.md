@@ -27,8 +27,10 @@ Construindo projetos reais com HTML, CSS e JavaScript
 ## 🌐 Redes sociais
 
 <p align="center">
-<a href="https://www.linkedin.com/in/victorpelity">LinkedIn</a> •
-<a href="https://www.instagram.com/victorpelity">Instagram</a> 
+<a href="https://www.linkedin.com/in/victorpelity">
+ <img height ="40" width="40" src ="https://github.com/user-attachments/assets/0ac1354a-e2c2-4693-90e3-289b49474061"></a>
+<a href="https://www.instagram.com/victorpelity"> 
+ <img height = "40" width="40" src="https://github.com/user-attachments/assets/bd8767a1-881e-4bd4-84ef-3017a8aebc54" alt = "Instagram"></a> 
 </p>
 <br>
 
