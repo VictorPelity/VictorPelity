@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Focused on improving every day<br>📚 I'm currently learning web-developing <br>🎲 Fun fact: My favorite movies are Coach Carter and Inglourious Basterds.</p>
+<p align="center">✨ Focused on improving every day<br>📚 I'm currently learning web-development <br>🎲 Fun fact: My favorite movies are Coach Carter and Inglourious Basterds.</p>
 
 ###
 
